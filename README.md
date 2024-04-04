@@ -7,3 +7,9 @@ Project is a pokemon-styled game available to preview @ https://s8cred.github.io
 
 - <b>JavaScript</b> 
 - <b>Tiled</b>
+
+Images:
+
+Setting up a Pokemon level/game/world created using Tiled. Every detail, from the terrain to interactive elements, is thoughtfully placed to provide a smooth and visually appealing experience for players. It's a crafted journey through the Pokemon universe that's both engaging and immersive.
+
+![image](https://github.com/eepyboi/Pokemon-JS-game/assets/128871508/0164ee14-8d6f-4feb-a17a-b21674113467)
